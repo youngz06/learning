@@ -14,7 +14,6 @@ public class test {
         test mytest=new test();
         String information=mytest.toString(oneemp);
         //System.out.println(information);
-
         //After defined the toString method
         System.out.println("the information:"+oneemp);
         System.out.print("input the you want to add:");
